@@ -2,10 +2,9 @@
 
 ## Overview
 The following project was created for the XDhacksCOVID Hackathon and made by team Ctrl+Alt+Elite. The code demostrates viable structures for implementing our idea of a COVID related application. Updates are available on our instagram and website:
+
 https://tayyibchohan.wixsite.com/aid19
-
 https://www.instagram.com/aid19app/ (@aid19app)
-
 https://docs.google.com/presentation/d/1Ohy8WQ4oSqBR6sBKzGM9JNfZzcvotgYvhzgu_t16S2U/edit?usp=sharing
 
 ### Map
