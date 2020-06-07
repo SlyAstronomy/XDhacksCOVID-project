@@ -12,4 +12,37 @@ The COVID case estimator uses a simple exponential formula, a set of known death
 ### Contact Tracing Algorithm 
 The contact tracing algorithym queries through a list of GPS co-ordinates aquired by some means wheather this is LTE/Cellular or Bluetooth data in order to keep remind induviduals about social distancing measures depending on their proximity and also let them know if they have been in contact with someone that is caring the disease. The algorithym uses a simple query that will not double count (i'm pretty sure its n^2 but idk)
 
-##References
+## References
+CBC Radio. (2020). As robots emerge as pandemic helpers, here's how to build your own robot dog.  Retrieved from: https://www.cbc.ca/radio/day6/incel-terrorism-charges-isolating-in-the-arctic-ocean-ramadan-weight-gain-a-diy-robot-dog-and-more-1.5578430/as-robots-emerge-as-pandemic-helpers-here-s-how-to-build-your-own-robot-dog-1.5578449
+
+Government of Canada. (2020). Coronavirus Disease (COVID-19). Retrieved from: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html
+
+Wired. (2020). The Covid-19 Pandemic Is a Crisis That Robots Were Built For. Retrieved from: https://www.wired.com/story/covid-19-pandemic-robots/
+
+Government of Canada. (2020). Vulnerable Population and COVID-19. Retrieved from: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/vulnerable-populations-covid-19.html
+
+World Health Organization. (2020). Maintaining Essential Health Services. Retrieved from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/related-health-issues
+
+Centres for Disease Control and Prevention. (2020). People Who Are at Higher Risk for Severe Illness. Retrieved from: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html
+
+Government of UK. (2020). Coronavirus UK Map: How many confirmed cases are there in your area. Retrieved from: https://www.bbc.com/news/uk-51768274
+
+Worldometers. (2020). Coronavirus Update (Live). Retrieved from: https://www.worldometers.info/coronavirus/
+
+Wired. (2020). The Covid-19 Pandemic Is a Crisis That Robots Were Built For. Retrieved from: https://www.wired.com/story/covid-19-pandemic-robots/
+
+World Economic Forum. (2020). This is how much the coronavirus will cost the world’s economy. Retrieved from: https://www.weforum.org/agenda/2020/03/coronavirus-covid-19-cost-economy-2020-un-trade-economics-pandemic/
+American Association for the Advancement of Science. (2020). Retrieved from: https://www.sciencemag.org/news/2020/05/countries-around-world-are-rolling-out-contact-tracing-apps-contain-coronavirus-how
+
+Esri Canada. (2020). COVID-19 Canada. Retrieved from: https://resources-covid19canada.hub.arcgis.com/
+
+Google Maps Javascript API: Overview (2020) Retrieved from: https://developers.google.com/maps/documentation/javascript/examples/map-simple#html
+
+https://www.youtube.com/watch?v=mCa0JXEwDEk
+
+https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html#a1
+
+https://github.com/midas-network/COVID-19/tree/master/parameter_estimates/2019_novel_coronavirus
+
+https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
+
