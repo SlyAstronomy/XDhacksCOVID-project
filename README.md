@@ -3,7 +3,10 @@
 ## Overview
 The following project was created for the XDhacksCOVID Hackathon and made by team Ctrl+Alt+Elite. The code demostrates viable structures for implementing our idea of a COVID related application. Updates are available on our instagram and website:
 https://tayyibchohan.wixsite.com/aid19
-@aid19app
+
+https://www.instagram.com/aid19app/ (@aid19app)
+
+https://docs.google.com/presentation/d/1Ohy8WQ4oSqBR6sBKzGM9JNfZzcvotgYvhzgu_t16S2U/edit?usp=sharing
 
 ### Map
 The mapping software makes use of Google's Javascript Map API and will allow the user to take preventative measures against COVID-19 through avoiding high density and risk areas. In addition it includes a search feature that allows users to plan their route. The webpage includes the majority of google maps functionality including location data, street view, satellite view, terrain view, bus routes, traffic levels, zoom, and autcomplete address search.
